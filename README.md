@@ -1,5 +1,5 @@
 # about
-Brian Kim is a doctoral researcher focused on applying neural networks to musculoskeletal imaging and statistical methods behind phenotyping people with musculoskeletal pain.
+Brian Kim is a doctoral researcher focused on applying deep learning to musculoskeletal imaging and statistical methods behind phenotyping people with musculoskeletal pain.
 
 ## skills
 R (intermediate), Python (proficient), data analysis, technical writing and <i>clearly not CSS</i>
