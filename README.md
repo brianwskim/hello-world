@@ -2,7 +2,7 @@
 Brian Kim is a researcher focused on applying deep learning to musculoskeletal imaging and statistical methods behind phenotyping people with musculoskeletal pain.
 
 ## skills
-R (intermediate), Python (proficient), data analysis, technical writing and <i>clearly not CSS</i>
+R (intermediate), Python (beginner), data analysis, image and signal processing, technical writing and <i>clearly not CSS</i>
 
 ## goals
 * develop a neural network to classify upper body injuries on MRI
