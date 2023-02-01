@@ -1,5 +1,5 @@
 # about
-Brian Kim is a doctoral researcher focused on applying deep learning to musculoskeletal imaging and statistical methods behind phenotyping people with musculoskeletal pain.
+Brian Kim is a researcher focused on applying deep learning to musculoskeletal imaging and statistical methods behind phenotyping people with musculoskeletal pain.
 
 ## skills
 R (intermediate), Python (proficient), data analysis, technical writing and <i>clearly not CSS</i>
@@ -7,7 +7,6 @@ R (intermediate), Python (proficient), data analysis, technical writing and <i>c
 ## goals
 * develop a neural network to classify upper body injuries on MRI
 * complete a marathon swim
-* win a local tennis competition
 * figure out how to make Korean braised short rib
 
 ## further-info
@@ -18,4 +17,3 @@ Outside of academia and tech, I love watching and analysing sport. NBA, Premier 
 
 ## education
 * Bachelor of Physiotherapy (Honours) - Monash University
-* Doctorate of Philosophy (PhD) - University of Sydney (The Kolling Institute of Medical Research)
